@@ -8,8 +8,11 @@
 
 ## Project implementation
 
-Create a retrieval-based response Chatbot based on lecture slides 58-60 from slideset 8_chatbots
-  
+Create a retrieval-based response Chatbot based on lecture slides 57-59 from slideset 8_chatbots
+
+![8_Chatbots-58](https://user-images.githubusercontent.com/64151127/236822970-60d83cc4-87ad-40c8-b386-6bd63546af3d.jpg)![8_Chatbots-59](https://user-images.githubusercontent.com/64151127/236822989-abe3fd01-0c6b-4854-a232-d54e5e788248.jpg)
+
+
 
 TBD
 
