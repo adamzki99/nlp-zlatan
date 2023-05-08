@@ -8,6 +8,9 @@
 
 ## Project implementation
 
+Create a retrieval-based response Chatbot based on lecture slides 58-60 from slideset 8_chatbots
+  
+
 TBD
 
 ## Project description
