@@ -2,13 +2,11 @@
 
 ## Planned activities
 
-- [x] Monday 8/5: Data exploration activities such as data visualization, clustering and figuring out how a implementation might look like.
-
-- [x] No date set: Continue with development of a retrieval-based response chatbot and figuring out a way to show the validity of the early implementation
-
-- [ ] Wednesday 24/5: Select the implementation that provides the best selection of passages compared to the original dataset. Also select if we want to work on the other extra assignments related to our data set.
-
-- [ ] Sunday 28/5: Hand-in project.
+- [x] ~~Monday 8/5: Data exploration activities such as data visualization, clustering and figuring out how a implementation might look like.
+- [x] ~~No date set: Continue with development of a retrieval-based response chatbot and figuring out a way to show the validity of the early implementation
+- [x] ~~Wednesday 24/5: Select the implementation that provides the best selection of passages compared to the original dataset. Also select if we want to work on the other extra assignments related to our data set.
+- [x] Sunday 28/5: Hand-in project.
+- [ ] Thursday 31/5: Presentation
 
 ## Project implementation
 
